@@ -1491,7 +1491,7 @@
         "bondi700": {
           "description": "",
           "type": "color",
-          "value": "#456f7cff",
+          "value": "#4f7f8eff",
           "blendMode": "normal",
           "extensions": {
             "org.lukasoppermann.figmaDesignTokens": {
